@@ -1,0 +1,47 @@
+Flight Calculator Project
+
+Functions to include in Python GUI build
+
+**** Completed ****
+ - Time, Speed & Distance
+
+ - Conversions
+       - Feet to Meters
+
+**** Pending ****
+ - Time, Speed & Distance (* DONE *)
+ - Conversions
+    - True Airspeed (TAS)
+    - Mach Number
+    - True Airspeed for Compressibility ("F" factor)
+    - Conversion to True Altitude
+    - Distance, Volume, Weight, Time and Temperature
+       - Statute to Nautical / Nautical to Statute   **** NEED TO SET UP FUNCTION CALLS IN MAIN
+       - Statute Miles per Hour (MPH) to Knots
+       - Feet to Meters  (* DONE *)
+       - Pounds to Kilograms
+       - Liters to Gallons
+       - US Gallons to Imperial Gallons
+       - Statute Miles or Nautical Mile to Kilometers
+       - Minutes to Seconds
+       - Fahrenheit to Centigrade
+ - Off-Course and Drift Correction
+    - Solution to Parallel the Original Course
+    - Solution to Intercept the Original Course
+ - Basic Math Functions (Addition, Multiplication, Division, etc.)
+ - Time and Distance to Radio Station
+ - Dead Reckoning Wind Effect Theory and Calculations
+    - To be completed after previous functions and GUI platform have been created
+
+Functions:
+
+Wind Components
+Cloud Base Altitude
+Speed of Sound
+Pressure Altitude
+Density Altitude
+Unit Conversion
+Mach Speed
+True Air Speed
+Indicated Air Speed
+
